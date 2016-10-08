@@ -1,0 +1,12 @@
+1. start out output text for game and what its objective is
+2. create menu option, name, ect
+3. start off with story board
+4. psuedo number generator creates  numbers.
+5. set of multiple cases created matching to a number within the generation range
+6. each case has its own generator in it. this is to cause the same affect within the case itself
+7. the case will have benefits/detriments based off choice and rng. mostly choice relating to whether the rng is good or bad.
+8. have options based on a recurring and changing stat int that change what can happen
+9. life or some sort of  main int drops below 0 game ends
+10. break proof, non answers and ect repeat code
+11. code will be infinite until game end code is initiated
+12. stretching - create an actual interface (GUI)
